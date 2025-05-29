@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Snake Plant",
+    "scientific_name": "Sansevieria trifasciata",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Snake_Plant.jpg",
+    "description": "A hardy indoor plant with sword-like leaves, ideal for low light and poor air quality."
+  },
+  {
+    "name": "Spider Plant",
+    "scientific_name": "Chlorophytum comosum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Chlorophytum_comosum0.jpg",
+    "description": "Easy-care hanging plant with arching leaves and baby plantlets."
+  },
+  {
+    "name": "Peace Lily",
+    "scientific_name": "Spathiphyllum wallisii",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Spathiphyllum_cochlearispathum_RTBG.jpg",
+    "description": "Elegant plant with white flowers, excellent for improving indoor air quality."
+  },
+  {
+    "name": "Aloe Vera",
+    "scientific_name": "Aloe barbadensis miller",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Aloe_vera_flower.JPG",
+    "description": "Succulent known for its medicinal gel and drought resistance."
+  },
+  {
+    "name": "Money Plant",
+    "scientific_name": "Epipremnum aureum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Epipremnum_aureum_%28Money_Plant%29.jpg",
+    "description": "Popular vine said to bring prosperity, grows easily in soil or water."
+  },
+  {
+    "name": "Rubber Plant",
+    "scientific_name": "Ficus elastica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ficus_elastica_leaves.jpg",
+    "description": "Attractive indoor tree with large, glossy leaves; prefers bright light."
+  },
+  {
+    "name": "Areca Palm",
+    "scientific_name": "Dypsis lutescens",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Areca_palm.jpg",
+    "description": "Tropical palm ideal for interiors; known for its feathery fronds."
+  },
+  {
+    "name": "ZZ Plant",
+    "scientific_name": "Zamioculcas zamiifolia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Zamioculcas_zamiifolia_001.JPG",
+    "description": "Low-maintenance plant with waxy leaves; thrives in low light."
+  },
+  {
+    "name": "Jade Plant",
+    "scientific_name": "Crassula ovata",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Crassula_ovata_in_bloom.jpg",
+    "description": "Succulent with thick, oval leaves; symbolizes good luck and fortune."
+  },
+  {
+    "name": "Boston Fern",
+    "scientific_name": "Nephrolepis exaltata",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Nephrolepis_exaltata_%28Boston_fern%29.jpg",
+    "description": "Lush fern with feathery fronds, ideal for humid and shaded areas."
+  },
+  {
+    "name": "Lavender",
+    "scientific_name": "Lavandula angustifolia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lavandula_angustifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-089.jpg",
+    "description": "Fragrant herb used in aromatherapy and oils; prefers full sun."
+  },
+  {
+    "name": "Bamboo Palm",
+    "scientific_name": "Chamaedorea seifrizii",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Chamaedorea_seifrizii1.jpg",
+    "description": "Compact indoor palm known for purifying air and soft green stems."
+  },
+  {
+    "name": "Pothos",
+    "scientific_name": "Epipremnum pinnatum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Epipremnum_pinnatum_leaves.jpg",
+    "description": "Trailing vine with heart-shaped leaves, very adaptable and easy to grow."
+  },
+  {
+    "name": "Calathea",
+    "scientific_name": "Calathea ornata",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Calathea_ornata.jpg",
+    "description": "Decorative plant with striking leaf patterns, prefers humidity and shade."
+  },
+  {
+    "name": "Chinese Evergreen",
+    "scientific_name": "Aglaonema commutatum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Aglaonema_commutatum.jpg",
+    "description": "Tolerant of low light and poor air, perfect for beginner plant owners."
+  }
+]
