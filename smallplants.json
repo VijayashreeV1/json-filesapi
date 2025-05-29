@@ -2,91 +2,121 @@
   {
     "name": "Snake Plant",
     "scientific_name": "Sansevieria trifasciata",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Small_Guava_plant_02.jpg/640px-Small_Guava_plant_02.jpg",
-    "description": "A hardy indoor plant with sword-like leaves, ideal for low light and poor air quality."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bird%27s_Nest_Snake_Plant_%28Sansevieria_trifasciata_%27Jade_Dwarf_Marginated%27%29.jpg/640px-Bird%27s_Nest_Snake_Plant_%28Sansevieria_trifasciata_%27Jade_Dwarf_Marginated%27%29.jpg",
+    "description": "A tough, air-purifying plant with upright sword-shaped leaves."
   },
   {
     "name": "Spider Plant",
     "scientific_name": "Chlorophytum comosum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Chlorophytum_comosum0.jpg",
-    "description": "Easy-care hanging plant with arching leaves and baby plantlets."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Spider_plant_02.jpg/640px-Spider_plant_02.jpg",
+    "description": "A popular indoor plant with arching leaves and baby 'spiderettes'."
   },
   {
     "name": "Peace Lily",
     "scientific_name": "Spathiphyllum wallisii",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Spathiphyllum_cochlearispathum_RTBG.jpg",
-    "description": "Elegant plant with white flowers, excellent for improving indoor air quality."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Spathiphyllum_floribundum_1.JPG/640px-Spathiphyllum_floribundum_1.JPG",
+    "description": "Known for its white spathes and air-purifying qualities."
   },
   {
     "name": "Aloe Vera",
     "scientific_name": "Aloe barbadensis miller",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Aloe_vera_flower.JPG",
-    "description": "Succulent known for its medicinal gel and drought resistance."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aloe_vera_Aloes_zwyczajny_2023-10-31_02.jpg/640px-Aloe_vera_Aloes_zwyczajny_2023-10-31_02.jpg",
+    "description": "Succulent plant with medicinal gel used for burns and skin care."
   },
   {
     "name": "Money Plant",
     "scientific_name": "Epipremnum aureum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Epipremnum_aureum_%28Money_Plant%29.jpg",
-    "description": "Popular vine said to bring prosperity, grows easily in soil or water."
-  },
-  {
-    "name": "Rubber Plant",
-    "scientific_name": "Ficus elastica",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ficus_elastica_leaves.jpg",
-    "description": "Attractive indoor tree with large, glossy leaves; prefers bright light."
-  },
-  {
-    "name": "Areca Palm",
-    "scientific_name": "Dypsis lutescens",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Areca_palm.jpg",
-    "description": "Tropical palm ideal for interiors; known for its feathery fronds."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Money_plant_4.jpg/640px-Money_plant_4.jpg",
+    "description": "Low-maintenance vine known for bringing good luck."
   },
   {
     "name": "ZZ Plant",
     "scientific_name": "Zamioculcas zamiifolia",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Zamioculcas_zamiifolia_001.JPG",
-    "description": "Low-maintenance plant with waxy leaves; thrives in low light."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zamioculcas_zamiifolia_1.jpg/640px-Zamioculcas_zamiifolia_1.jpg",
+    "description": "Drought-resistant plant with glossy, dark green leaves."
   },
   {
     "name": "Jade Plant",
     "scientific_name": "Crassula ovata",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Crassula_ovata_in_bloom.jpg",
-    "description": "Succulent with thick, oval leaves; symbolizes good luck and fortune."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Jade_Plant%2C_Crassula_ovata_IMG_3632.jpg/640px-Jade_Plant%2C_Crassula_ovata_IMG_3632.jpg",
+    "description": "Succulent plant said to bring prosperity and good fortune."
+  },
+  {
+    "name": "Areca Palm",
+    "scientific_name": "Dypsis lutescens",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Areca_palm_in_Ceramic_Pot.jpg/640px-Areca_palm_in_Ceramic_Pot.jpg",
+    "description": "Feather-leafed palm suitable for bright indoor areas."
+  },
+  {
+    "name": "Rubber Plant",
+    "scientific_name": "Ficus elastica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ficus_elastica_%28rubber_plant%29.jpg/640px-Ficus_elastica_%28rubber_plant%29.jpg",
+    "description": "Popular houseplant with large, glossy leaves."
   },
   {
     "name": "Boston Fern",
     "scientific_name": "Nephrolepis exaltata",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Nephrolepis_exaltata_%28Boston_fern%29.jpg",
-    "description": "Lush fern with feathery fronds, ideal for humid and shaded areas."
-  },
-  {
-    "name": "Lavender",
-    "scientific_name": "Lavandula angustifolia",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lavandula_angustifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-089.jpg",
-    "description": "Fragrant herb used in aromatherapy and oils; prefers full sun."
-  },
-  {
-    "name": "Bamboo Palm",
-    "scientific_name": "Chamaedorea seifrizii",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Chamaedorea_seifrizii1.jpg",
-    "description": "Compact indoor palm known for purifying air and soft green stems."
-  },
-  {
-    "name": "Pothos",
-    "scientific_name": "Epipremnum pinnatum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Epipremnum_pinnatum_leaves.jpg",
-    "description": "Trailing vine with heart-shaped leaves, very adaptable and easy to grow."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_potted_Nephrolepis_exaltata_04.jpg/640px-The_potted_Nephrolepis_exaltata_04.jpg",
+    "description": "Lush, arching fern perfect for bathrooms and shaded corners."
   },
   {
     "name": "Calathea",
     "scientific_name": "Calathea ornata",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Calathea_ornata.jpg",
-    "description": "Decorative plant with striking leaf patterns, prefers humidity and shade."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Calathea_ornata_%27Roseo-lineata%27_kz2.jpg/640px-Calathea_ornata_%27Roseo-lineata%27_kz2.jpg",
+    "description": "Beautiful foliage plant known for its striking leaf patterns."
   },
   {
     "name": "Chinese Evergreen",
     "scientific_name": "Aglaonema commutatum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Aglaonema_commutatum.jpg",
-    "description": "Tolerant of low light and poor air, perfect for beginner plant owners."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aglaonema_commutatum_silver_queen-2-R.M.Nagar-bangalore-India.jpg/640px-Aglaonema_commutatum_silver_queen-2-R.M.Nagar-bangalore-India.jpg",
+    "description": "Tolerant of low light and air pollution, great for beginners."
+  },
+  {
+    "name": "Pothos",
+    "scientific_name": "Epipremnum pinnatum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Epipremnum-pinnatum-SF24213-01.jpg/640px-Epipremnum-pinnatum-SF24213-01.jpg",
+    "description": "Fast-growing vine that thrives in water or soil."
+  },
+  {
+    "name": "Bamboo Palm",
+    "scientific_name": "Chamaedorea seifrizii",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Chamaedorea_seifrizii7.jpg/640px-Chamaedorea_seifrizii7.jpg",
+    "description": "Compact palm great for air purification and indoor decoration."
+  },
+  {
+    "name": "Lavender",
+    "scientific_name": "Lavandula angustifolia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lavandula_angustifolia_in_Sedovo_1.jpg/640px-Lavandula_angustifolia_in_Sedovo_1.jpg",
+    "description": "Aromatic herb known for its calming scent and flowers."
+  },
+  {
+    "name": "Lucky Bamboo",
+    "scientific_name": "Dracaena sanderiana",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/LuckyBamboo_2005_SeanMcClean.jpg/640px-LuckyBamboo_2005_SeanMcClean.jpg",
+    "description": "Said to bring good fortune; often grown in water."
+  },
+  {
+    "name": "Oxalis",
+    "scientific_name": "Oxalis triangularis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/L%C3%A1_c%C3%A2y_b%C6%B0%E1%BB%9Bm_%C4%91%C3%AAm.jpg/640px-L%C3%A1_c%C3%A2y_b%C6%B0%E1%BB%9Bm_%C4%91%C3%AAm.jpg",
+    "description": "Purple shamrock plant with clover-shaped leaves and small flowers."
+  },
+  {
+    "name": "Fittonia",
+    "scientific_name": "Fittonia albivenis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fittonia_albivenis2022.jpg/640px-Fittonia_albivenis2022.jpg",
+    "description": "Also called nerve plant, known for its striking vein patterns."
+  },
+  {
+    "name": "Cactus",
+    "scientific_name": "Mammillaria elongata",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mammillaria_elongata_Mamilaria_wyd%C5%82u%C5%BCona_2019-07-12_01.jpg/640px-Mammillaria_elongata_Mamilaria_wyd%C5%82u%C5%BCona_2019-07-12_01.jpg",
+    "description": "Small desert plant with unique shapes and minimal water needs."
+  },
+  {
+    "name": "Succulent Mix",
+    "scientific_name": "Various species",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Succulent_vertical_wall.jpg/640px-Succulent_vertical_wall.jpg",
+    "description": "Group of small drought-tolerant plants, ideal for tiny pots."
   }
 ]
